@@ -1,0 +1,15 @@
+{
+  "name": "cypress-recres-restapi",
+  "version": "1.0.0",
+  "description": "This is for cypress API automation work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "Taimoor Nadeem",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}
